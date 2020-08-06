@@ -1,2 +1,1 @@
-# Virtual-Pet-1-34
-This is the basic version of virtual pet
+# Virtual-pet-1--c34
